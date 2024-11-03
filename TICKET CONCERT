@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="teman.css">
 	<link rel="stylesheet" type="text/css" href="http://localhost/latihan/teman.css">
-	<title>TICKET CONCERT</title>
+	<title>ticketconcert</title>
 
 	<style>
 body {
